@@ -6,8 +6,8 @@ const Options = () => {
   return (
     <>
       <Link className={optionsStyles.button} to='/lotto'>Lotto - 6 from 49</Link>
-      <Link className={optionsStyles.button} to='eurojackpot'>Eurojackpot - 5 from 50</Link>
-      <Link className={optionsStyles.button} to='minilotto'>Minilotto - 5 from 42</Link>
+      <Link className={optionsStyles.button} to='/eurojackpot'>Eurojackpot - 5 from 50</Link>
+      <Link className={optionsStyles.button} to='/minilotto'>Minilotto - 5 from 42</Link>
     </>
   );
 }
