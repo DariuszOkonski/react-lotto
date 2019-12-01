@@ -1,6 +1,8 @@
 .button {
   display: block;
+  min-width: 200px;
   max-width: 300px;
+  width: 100%;
   color: #09d3ac;
   font-size: 1rem;
   text-decoration: none;
@@ -10,6 +12,8 @@
   padding: 1rem;
   text-align: center;
   transition: .2s;
+  background-color: transparent;
+  cursor: pointer;
 
   @media(min-width: 1025px) {
     font-size: 1.2rem;
