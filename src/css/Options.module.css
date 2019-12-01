@@ -1,0 +1,26 @@
+.button {
+  display: block;
+  max-width: 300px;
+  color: #09d3ac;
+  font-size: 1rem;
+  text-decoration: none;
+  border: 1px solid #09d3ac;
+  border-radius: 0.5rem;
+  margin: 1rem auto;
+  padding: 1rem;
+  text-align: center;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+
+@media (min-width: 1025px) {
+  .button {
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+  }
+  .button:hover {
+    background-color: #09d3ac;
+    color: #282c34;
+  }
+}
+/*# sourceMappingURL=Options.module.css.map */
