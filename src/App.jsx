@@ -7,9 +7,9 @@ function App() {
   return (
     <div className={appStyles.app}>
       <h1 className={appStyles.header}>Lotto App</h1>
-      <BrowserRouter>
-        <Game />
-      </BrowserRouter>
+      {/* <BrowserRouter> */}
+      <Game />
+      {/* </BrowserRouter> */}
     </div>
   );
 }
