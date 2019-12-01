@@ -1,1 +1,10 @@
-/* No CSS *//*# sourceMappingURL=App.module.css.map */
+.app {
+  width: 90%;
+  min-height: calc(100vh - 2rem);
+  max-width: 500px;
+  border: 1px solid #09d3ac;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: 1rem auto;
+}
+/*# sourceMappingURL=App.module.css.map */
