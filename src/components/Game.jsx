@@ -7,7 +7,7 @@ import Draw from './Draw';
 const Game = () => {
   return (
     <section className={gameStyles.game}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path='/' component={Options} />
           <Route exact path='/lotto' component={() => <Draw balls={6} pot={49} />} />
