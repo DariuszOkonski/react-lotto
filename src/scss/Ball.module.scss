@@ -1,0 +1,24 @@
+.ball {
+  background-color: #09d3ac;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  margin: 0 0.2rem;
+
+  p {
+    color: #282c34;
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+
+  @media(min-width: 1025px) {
+    width: 3.4rem;
+    height: 3.4rem;
+    margin: 0 0.6rem;
+
+    p {
+      font-size: 1.4rem;
+      line-height: 3.4rem;
+    }
+  }
+}
