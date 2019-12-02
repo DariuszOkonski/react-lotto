@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fbda0925fb3ac5434251a3849f4e5b2",
+    "revision": "87f040c25bd83eb1a897fe6ca5359b3d",
     "url": "/react-lotto/index.html"
   },
   {
-    "revision": "316f26a9169812b21a3e",
+    "revision": "8fc701f266042f3d8d65",
     "url": "/react-lotto/static/css/main.3491137d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-lotto/static/js/2.03cd9cc1.chunk.js"
   },
   {
-    "revision": "316f26a9169812b21a3e",
-    "url": "/react-lotto/static/js/main.5186b6ee.chunk.js"
+    "revision": "8fc701f266042f3d8d65",
+    "url": "/react-lotto/static/js/main.ac80aefd.chunk.js"
   },
   {
     "revision": "334b5d17433f1d3fd456",

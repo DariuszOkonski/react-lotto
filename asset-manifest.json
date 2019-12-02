@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-lotto/static/css/main.3491137d.chunk.css",
-    "main.js": "/react-lotto/static/js/main.5186b6ee.chunk.js",
-    "main.js.map": "/react-lotto/static/js/main.5186b6ee.chunk.js.map",
+    "main.js": "/react-lotto/static/js/main.ac80aefd.chunk.js",
+    "main.js.map": "/react-lotto/static/js/main.ac80aefd.chunk.js.map",
     "runtime-main.js": "/react-lotto/static/js/runtime-main.6bd73a4f.js",
     "runtime-main.js.map": "/react-lotto/static/js/runtime-main.6bd73a4f.js.map",
     "static/js/2.03cd9cc1.chunk.js": "/react-lotto/static/js/2.03cd9cc1.chunk.js",
     "static/js/2.03cd9cc1.chunk.js.map": "/react-lotto/static/js/2.03cd9cc1.chunk.js.map",
     "index.html": "/react-lotto/index.html",
-    "precache-manifest.0c497b0e2d83fe84ea2b198819365956.js": "/react-lotto/precache-manifest.0c497b0e2d83fe84ea2b198819365956.js",
+    "precache-manifest.7cab9933b8fc49dacd86e12d0a638407.js": "/react-lotto/precache-manifest.7cab9933b8fc49dacd86e12d0a638407.js",
     "service-worker.js": "/react-lotto/service-worker.js",
     "static/css/main.3491137d.chunk.css.map": "/react-lotto/static/css/main.3491137d.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6bd73a4f.js",
     "static/js/2.03cd9cc1.chunk.js",
     "static/css/main.3491137d.chunk.css",
-    "static/js/main.5186b6ee.chunk.js"
+    "static/js/main.ac80aefd.chunk.js"
   ]
 }
